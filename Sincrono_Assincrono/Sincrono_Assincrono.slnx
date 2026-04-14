@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Assincrono/Assincrono.csproj" />
+  <Project Path="Sincrono/Sincrono.csproj" />
+</Solution>

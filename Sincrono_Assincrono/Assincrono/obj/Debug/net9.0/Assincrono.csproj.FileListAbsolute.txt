@@ -1,0 +1,15 @@
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.exe
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.deps.json
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.runtimeconfig.json
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.dll
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\bin\Debug\net9.0\Assincrono.pdb
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.AssemblyInfoInputs.cache
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.AssemblyInfo.cs
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.csproj.CoreCompileInputs.cache
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.sourcelink.json
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.dll
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\refint\Assincrono.dll
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.pdb
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\Assincrono.genruntimeconfig.cache
+C:\programacao\web3\Sincrono_Assincrono\Assincrono\obj\Debug\net9.0\ref\Assincrono.dll
