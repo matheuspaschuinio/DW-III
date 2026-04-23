@@ -7,6 +7,7 @@ namespace VasosInteligentes.Data
     {
         public DbSet<Vaso> Vasos { get; set; }
         public DbSet<Planta> Plantas { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
