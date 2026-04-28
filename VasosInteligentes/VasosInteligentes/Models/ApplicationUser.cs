@@ -6,5 +6,6 @@ namespace VasosInteligentes.Models
     [CollectionName("Users")]
     public class ApplicationUser : MongoDbIdentityUser
     {
+        public string Nome { get; set; }
     }
 }
